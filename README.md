@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Restaurant webpage](https://github.com/EnriqueAguilarP/ravenous)
 
-- 🌱 I’m currently learning **Data Analyst and Machine Learning**
+- 🌱 I’m currently learning **Data Analysis and Machine Learning**
 
 - 💬 Ask me about **JavaScript, React**
 
