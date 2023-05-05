@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Enrique Aguilar</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
-- 🔭 I’m currently working on [Restaurant webpage](https://github.com/EnriqueAguilarP/ravenous)
+- 🔭 I’m currently working on [Hotel webpage](https://hotel-wood.vercel.app/)
 
-- 🌱 I’m currently learning **Data Analysis and Machine Learning**
+- 🌱 I’m currently learning **NextJs and Angular**
 
 - 💬 Ask me about **JavaScript, React**
 
