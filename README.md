@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Enrique Aguilar</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
-- 🔭 I’m currently working on [Hotel webpage](https://hotel-wood.vercel.app/)
+- 🔭 I’m currently working on [School website](https://github.com/EnriqueAguilarP/school)
 
-- 🌱 I’m currently learning **NextJs and Angular**
+- 🌱 I’m currently learning **NextJs and Typescript**
 
 - 💬 Ask me about **JavaScript, React**
 
 - 📫 How to reach me **enrique.prado207@gmail.com**
 
-- ⚡ Fun fact **I love reading**
+- ⚡ Fun fact **I love reading, volleyball and **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
