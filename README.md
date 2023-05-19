@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Enrique Aguilar</h1>
-<h3 align="center">A passionate frontend developer from Mexico</h3>
+<h3 align="center">A passionate fullstack developer from Mexico</h3>
 
-- 🔭 I’m currently working on [School website](https://github.com/EnriqueAguilarP/school)
+- 🔭 I’m currently working on [School website](https://github.com/EnriqueAguilarP/school) and [AI Art Prompt App](https://github.com/EnriqueAguilarP/prompt-app)
 
-- 🌱 I’m currently learning **NextJs and Typescript**
+- 🌱 I’m currently learning **NextJs and RESTful APIs**
 
-- 💬 Ask me about **JavaScript, React**
+- 💬 Ask me about **JavaScript and React**
 
 - 📫 How to reach me **enrique.prado207@gmail.com**
 
-- ⚡ Fun fact **I love reading, volleyball **
+- ⚡ Fun fact **I love reading, volleyball, chess and videogames **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
