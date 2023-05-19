@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **enrique.prado207@gmail.com**
 
-- ⚡ Fun fact **I love reading, volleyball, chess and videogames **
+- ⚡ Fun fact **I love reading and volleyball**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
